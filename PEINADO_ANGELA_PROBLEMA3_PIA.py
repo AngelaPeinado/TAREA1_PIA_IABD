@@ -16,10 +16,10 @@ numerosArray2 = []
 
 #Insertamos por teclado estos numeros
 
-print("Ingresa números por teclado para formarel primer conjunto. Para finalizar, escribe 'x'.")
+print("Ingresa números por teclado para formarel primer conjunto.")
 CreateArray(numerosArray1)
 
-print("Ingresa números por teclado para formar el segundo conjunto. Para finalizar, escribe 'x'.")
+print("Ingresa números por teclado para formar el segundo conjunto.")
 CreateArray(numerosArray2)
 
 
